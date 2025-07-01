@@ -122,5 +122,16 @@ Hệ thống sẽ tự động:
 - ✅ **Audit trail:** Chi tiết protocol và debug info
 - ✅ **System monitoring:** Resource usage và performance
 
-## 🔐 Cấu trúc gói tin (theo đề)
+## 🔐 Giao Diện đăng nhập
+![Giao diện demo](/giaodiendangnhap.jpg)
+## 🔐 Giao Diện tổng quan của admin
+![Giao diện demo](/tongquangiaodien.jpg)
+## 🔐 Giao Diện quản lý giao dịch của admin
+![Giao diện demo](/giaodienquanlygiaodich.jpg)
+## 🔐 Giao Diện quản lý người dùng của admin
+![Giao diện demo](/giaodienquanlynguoidung.jpg)
+## 🔐 Giao Diện tổng quan  của giảng viên
+![Giao diện demo](/giaodientruyenfile.jpg)
+## 🔐 Giao Diện truyền file của giảng viên
+![Giao diện demo](/truyenfilecuagiangvien.jpg)
 
