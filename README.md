@@ -124,7 +124,3 @@ Hệ thống sẽ tự động:
 
 ## 🔐 Cấu trúc gói tin (theo đề)
 
-### Metadata Package (Bước 2):
-```json
-{
-  "username": "teacher1"
